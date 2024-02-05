@@ -1,0 +1,49 @@
+variable,valores_posibles,descripcion_valores
+energia_electrica,Conexión formal a la red con medidor domiciliario con factura,Modo óptimo y seguro de conexión. Servicio operado y mantenido por la prestadora.
+energia_electrica,Conexión regular a la red con medidor domiciliario pero sin factura,No se paga por el servicio y quien lo recibe no está registrado como usuario/a.
+energia_electrica,Conexión regular a la red con medidor domiciliario con consumo limitado,"Conexión de menor potencia que dificulta o impide el uso de electrodomésticos de alto consumo tales como freezer, horno eléctrico, estufa eléctrica, aire acondicionado."
+energia_electrica,Conexión regular a la red con medidor prepago,"Las familias deben ir a un kiosco, local de pago de servicios o mediante el uso de una app, para cargar saldo a su cuenta y así tener electricidad. Si se queda sin crédito se corta el suministro."
+energia_electrica,Conexión a la red con medidor compartido,Dos o más domicilios comparten un único medidor y los gastos mensuales correspondientes.
+energia_electrica,Conexión a la red con medidor comunitario,"Generalmente se encuentra en altura, mide el consumo de todas las viviendas que se encuentran conectadas al mismo y es el Estado quien se hace cargo del costo mensual."
+energia_electrica,Conexión irregular a la red,"Enganchados a la red, cables a los postes de luz de la calle, de una familia a otra, etc."
+energia_electrica,No tiene conexión eléctrica,No acceden a la red ni a ningún modo alternativo.
+energia_electrica,Energía solar,Modo alternativo.
+energia_electrica,Generador eléctrico a combustión,Modo alternativo.
+efluentes_cloacales,Conexión formal a la red cloacal,Modo óptimo y seguro de conexión. Servicio operado y mantenido por la prestadora.
+efluentes_cloacales,Red cloacal conectada a la red pluvial,Conexión formal pero conectada con el alcantarillado o con el desagüe pluvial.
+efluentes_cloacales,Conexión irregular a la red cloacal,Enganchados informalmente a las cañerías colectoras de la red.
+efluentes_cloacales,Desagüe a cámara séptica y pozo ciego,La cámara séptica es una estructura que permite el tratamiento básico de las aguas residuales de las viviendas.
+efluentes_cloacales,Desagüe sólo a pozo negro/ciego u hoyo,Excavación en el terreno que recibe la descarga de las aguas negras.
+efluentes_cloacales,Baño seco,"Tipo de baño ecológico que se caracteriza por no utilizar agua entubada, sino que aprovecha las capacidades de la compostación y la desecación para degradar la materia fecal."
+efluentes_cloacales,Desagüe a intemperie o cuerpo de agua,"Drena directo a la calle, zanja, arroyo, etc."
+agua_corriente,Conexión formal a la red de agua con factura,Modo óptimo y seguro de la conexión a la red de agua corriente. Servicio operado y mantenido por la prestadora.
+agua_corriente,Conexión regular a la red de agua pero sin factura,No se paga por el servicio de agua corriente y quien lo recibe no está registrado como usuario/a.
+agua_corriente,Conexión regular a la red de agua con tarifa compartida,Dos o más domicilios comparten una única conexión formal a la red y los gastos mensuales correspondientes.
+agua_corriente,Conexión irregular a la red de agua,Enganchados informalmente a la red de agua corriente.
+agua_corriente,Bomba de agua de pozo domiciliaria,"Se extrae el agua de las napas freáticas, contando cada familia con su propia bomba."
+agua_corriente,Bomba de agua de pozo comunitaria,"Se extrae el agua de las napas freáticas, habiendo una bomba comunitaria."
+agua_corriente,Canilla comunitaria dentro del barrio,Se accede al agua mediante canillas de libre acceso ubicadas en la vía pública.
+agua_corriente,Camión cisterna,Regularmente un camión trae agua al barrio para que sus habitantes se puedan abastecer.
+agua_corriente,Acarreo de baldes desde fuera del barrio,No hay ninguna fuente de agua corriente en el barrio por lo que se debe buscar fuera del mismo.
+agua_corriente,"Vertiente, arroyo, río o canal",Se consume agua proveniente de una fuente natural.
+agua_corriente,Cosecha/Recolección de agua de lluvia,Se consume agua proveniente de la recolección del agua que cae de la lluvia.
+cocina,Conexión formal a la red de gas,Modo óptimo y seguro de la conexión a la red de gas natural. Servicio operado y mantenido por la prestadora.
+cocina,Conexión irregular a la red de gas,Enganchados informalmente a la red de gas natural.
+cocina,Gas en garrafa,Gas envasado que las familias se autoproveen.
+cocina,Leña o carbón,Se genera calor a través de la quema de estos elementos.
+cocina,Energía eléctrica,microondas/calentador/horno eléctrico.
+calefaccion,Conexión formal a la red de gas,Modo óptimo y seguro de la conexión a la red de gas natural. Servicio operado y mantenido por la prestadora.
+situacion_dominial,Título de propiedad,La mayoría de los vecinos cuentan con título de propiedad.
+situacion_dominial,Propiedad Comunitaria,
+situacion_dominial,Otro tipo de seguridad en la tenencia,La mayoría de los vecinos cuentan con otro tipo de seguridad de tenencia provista por el Estado.
+situacion_dominial,Boleto de compra-venta,"La mayoría de los vecinos cuentan con boleto de compra-venta, pero no tienen título."
+situacion_dominial,Ninguna seguridad en la tenencia,"La mayoría de los vecinos no tiene título de propiedad, ni boleto de compra-venta, ni ningún otro tipo de documento que dé seguridad en la tenencia."
+calefaccion,Conexión irregular a la red de gas,Enganchados informalmente a la red de gas natural.
+clasificacion_barrio,Asentamiento,
+clasificacion_barrio,Villa,
+clasificacion_barrio,Conjunto habitacional degradado,
+calefaccion,Gas en garrafa,Gas envasado que las familias se autoproveen.
+calefaccion,Leña o carbón,Se genera calor a través de la quema de estos elementos.
+calefaccion,Energía eléctrica,estufa eléctrica/resistencia.
+calefaccion,Inexistente,No acceden a la red ni a ningún modo alternativo. El clima del lugar es favorable por lo que no es necesario el uso de artefactos para calefaccionar.
+calefaccion,Otro / vacío,Celda vacía a la que le pusimos esta denominación para que contabilice en el panel
